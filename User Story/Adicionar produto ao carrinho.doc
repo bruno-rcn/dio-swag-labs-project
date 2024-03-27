@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SWG-4] Adicionar produto ao carrinho</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://brunorcnoberto0.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SWG-4]&nbsp;<a href="https://brunorcnoberto0.atlassian.net/browse/SWG-4">Adicionar produto ao carrinho</a>
+            <span class="subText">
+               Criado: 26/mar/24                   &nbsp;Atualizado(a): 26/mar/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Não Iniciado</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://brunorcnoberto0.atlassian.net/secure/BrowseProject.jspa?id=10002">SwagLabsDIO</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:7a72643d-e2df-4c7a-8fc7-029eba638a3b"
+                id="word_reporter_70121:7a72643d-e2df-4c7a-8fc7-029eba638a3b"
+                href="https://brunorcnoberto0.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A7a72643d-e2df-4c7a-8fc7-029eba638a3b">
+                    brunorcnoberto0
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10003-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10003-value" class="value" bgcolor="#ffffff" width="80%">      0|i0000f:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10003-value" class="value" bgcolor="#ffffff" width="80%">quadro Sprint 1</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Descrição:</b> Como um cliente interessado em comprar produtos neste e-commerce, eu quero poder adicionar um item ao meu carrinho de compras, para que eu possa revisar e finalizar minha compra posteriormente.</p>
+
+<p><b>Critérios de Aceitação:</b></p>
+
+<ul>
+	<li>A funcionalidade de adicionar produto ao carrinho deve estar acessível na página de detalhes do produto.</li>
+	<li>Deve haver um botão ou opção clara e visível para adicionar o produto ao carrinho.</li>
+	<li>Ao clicar no botão "Adicionar ao Carrinho", o produto selecionado deve ser incluído no carrinho de compras do cliente.</li>
+	<li>O carrinho de compras deve ser atualizado imediatamente para refletir o produto adicionado, mostrando a quantidade correta de itens e o preço total atualizado.</li>
+	<li>Após adicionar um produto ao carrinho, o cliente deve ter a opção de continuar comprando ou de prosseguir para o checkout.</li>
+	<li>Se o cliente tentar adicionar um produto que não está mais disponível no estoque, deve ser exibida uma mensagem de erro informando sobre a falta de estoque e o produto não deve ser adicionado ao carrinho.</li>
+	<li>O processo de adicionar o produto ao carrinho deve ser intuitivo e responsivo, funcionando sem problemas em diferentes dispositivos e navegadores.</li>
+</ul>
+
+
+<p><b>Critérios de Rejeição:</b></p>
+
+<ul>
+	<li>Falha ao adicionar o produto ao carrinho, resultando em inconsistências no carrinho de compras.</li>
+	<li>Experiência de usuário confusa ou não intuitiva ao tentar adicionar um produto ao carrinho.</li>
+	<li>Mensagens de erro pouco claras ou ausentes quando ocorrerem problemas durante o processo de adição ao carrinho.</li>
+	<li>O carrinho de compras não é atualizado corretamente após a adição do produto, exibindo informações incorretas sobre quantidade de itens ou preço total.</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Wed Mar 27 11:44:19 UTC 2024 por brunorcnoberto0 usando JIRA 1001.0.0-SNAPSHOT#100248-rev:70a9c00e5a516904d235a1c3cae967ca85575950.
+
+</body>
+</html>

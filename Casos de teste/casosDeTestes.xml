@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10002</projectId>
+    <projectKey>SWG</projectKey>
+    <exportDate>2024-03-27 11:45:53 UTC</exportDate>
+    <folders/>
+    <testCases>
+        <testCase id="149180700" key="SWG-T1">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>brunorcnoberto0</createdBy>
+            <createdOn>2024-03-27 11:33:44 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Verificar a exibição da página de login]]></name>
+            <owner>70121:7a72643d-e2df-4c7a-8fc7-029eba638a3b</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[O usu&aacute;rio acessa o site]]></description>
+                        <expectedResult><![CDATA[A p&aacute;gina de login &eacute; exibida corretamente, incluindo campos para inser&ccedil;&atilde;o de nome de usu&aacute;rio e senha, bot&otilde;es para login, cadastro e redefini&ccedil;&atilde;o de senha]]></expectedResult>
+                        <testData><![CDATA[Navegar at&eacute; a p&aacute;gina de login]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="149180773" key="SWG-T2">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>brunorcnoberto0</createdBy>
+            <createdOn>2024-03-27 11:34:37 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Verificar a exibição do botão de cadastro]]></name>
+            <owner>70121:7a72643d-e2df-4c7a-8fc7-029eba638a3b</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[O usu&aacute;rio est&aacute; na p&aacute;gina de login]]></description>
+                        <expectedResult><![CDATA[O usu&aacute;rio visualiza claramente o bot&atilde;o de cadastro, que permite acessar a p&aacute;gina de registro na loja virtual]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="149180776" key="SWG-T3">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>brunorcnoberto0</createdBy>
+            <createdOn>2024-03-27 11:34:52 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Verificar a exibição do botão de redefinição de senha]]></name>
+            <owner>70121:7a72643d-e2df-4c7a-8fc7-029eba638a3b</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[O usu&aacute;rio est&aacute; na p&aacute;gina de login]]></description>
+                        <expectedResult><![CDATA[O usu&aacute;rio visualiza claramente o bot&atilde;o de redefini&ccedil;&atilde;o de senha, que permite acessar a p&aacute;gina para redefinir a senha da conta]]></expectedResult>
+                        <testData><![CDATA[]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="149181026" key="SWG-T4">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>brunorcnoberto0</createdBy>
+            <createdOn>2024-03-27 11:37:17 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Verificar se o botão "Adicionar ao Carrinho" está visível na página de detalhes do produto]]></name>
+            <owner>70121:7a72643d-e2df-4c7a-8fc7-029eba638a3b</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[O usu&aacute;rio acessa a p&aacute;gina de detalhes do produto]]></description>
+                        <expectedResult><![CDATA[<u>O bot&atilde;o &quot;Adicionar ao Carrinho&quot; est&aacute; claramente vis&iacute;vel na p&aacute;gina de detalhes do produto</u>]]></expectedResult>
+                        <testData><![CDATA[Verificar se o bot&atilde;o &quot;Adicionar ao Carrinho&quot; est&aacute; vis&iacute;vel]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="149181041" key="SWG-T5">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>brunorcnoberto0</createdBy>
+            <createdOn>2024-03-27 11:37:49 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Verificar se é possível adicionar um produto ao carrinho com sucesso]]></name>
+            <owner>70121:7a72643d-e2df-4c7a-8fc7-029eba638a3b</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[O usu&aacute;rio est&aacute; na p&aacute;gina de detalhes do produto]]></description>
+                        <expectedResult><![CDATA[O produto &eacute; adicionado ao carrinho corretamente, com as informa&ccedil;&otilde;es atualizadas de quantidade e pre&ccedil;o total]]></expectedResult>
+                        <testData><![CDATA[Clicar no bot&atilde;o &quot;Adicionar ao Carrinho&quot;]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="149181057" key="SWG-T6">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>brunorcnoberto0</createdBy>
+            <createdOn>2024-03-27 11:38:20 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Verificar se uma mensagem de erro é exibida ao tentar adicionar um produto indisponível no estoque ao carrinho]]></name>
+            <owner>70121:7a72643d-e2df-4c7a-8fc7-029eba638a3b</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[O produto selecionado n&atilde;o est&aacute; dispon&iacute;vel no estoque]]></description>
+                        <expectedResult><![CDATA[Uma mensagem de erro &eacute; exibida informando sobre a indisponibilidade do produto e o produto n&atilde;o &eacute; adicionado ao carrinho]]></expectedResult>
+                        <testData><![CDATA[Clicar no bot&atilde;o &quot;Adicionar ao Carrinho&quot;]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="149181125" key="SWG-T7">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>brunorcnoberto0</createdBy>
+            <createdOn>2024-03-27 11:40:09 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Verificar se há um link ou botão claramente identificado para visualizar os detalhes de um produto na página inicial ou na lista de produtos]]></name>
+            <owner>70121:7a72643d-e2df-4c7a-8fc7-029eba638a3b</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[O usu&aacute;rio acessa a p&aacute;gina inicial ou a lista de produtos]]></description>
+                        <expectedResult><![CDATA[Existe um link ou bot&atilde;o claramente identificado que leva o usu&aacute;rio para a p&aacute;gina de detalhes do produto]]></expectedResult>
+                        <testData><![CDATA[Verificar se h&aacute; um link ou bot&atilde;o claramente identificado para visualizar os detalhes de um produto]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="149181403" key="SWG-T8">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>brunorcnoberto0</createdBy>
+            <createdOn>2024-03-27 11:40:43 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Verificar se ao clicar no link ou botão para visualizar os detalhes de um produto, o cliente é direcionado para uma página separada com informações detalhadas sobre o produto]]></name>
+            <owner>70121:7a72643d-e2df-4c7a-8fc7-029eba638a3b</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[O usu&aacute;rio est&aacute; na p&aacute;gina inicial ou na lista de produtos]]></description>
+                        <expectedResult><![CDATA[O cliente &eacute; direcionado para uma p&aacute;gina separada que exibe informa&ccedil;&otilde;es detalhadas sobre o produto, incluindo nome, descri&ccedil;&atilde;o, pre&ccedil;o, disponibilidade em estoque e outras informa&ccedil;&otilde;es relevantes]]></expectedResult>
+                        <testData><![CDATA[Clicar no link ou bot&atilde;o para visualizar os detalhes de um produto]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="149181514" key="SWG-T9">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>brunorcnoberto0</createdBy>
+            <createdOn>2024-03-27 11:41:11 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Verificar se a página de detalhes do produto exibe corretamente todas as informações necessárias]]></name>
+            <owner>70121:7a72643d-e2df-4c7a-8fc7-029eba638a3b</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[O cliente est&aacute; na p&aacute;gina de detalhes do produto]]></description>
+                        <expectedResult><![CDATA[A p&aacute;gina de detalhes do produto inclui corretamente o nome, descri&ccedil;&atilde;o, pre&ccedil;o, disponibilidade em estoque, imagens de alta qualidade e outras informa&ccedil;&otilde;es relevantes]]></expectedResult>
+                        <testData><![CDATA[Verificar se todas as informa&ccedil;&otilde;es necess&aacute;rias est&atilde;o presentes e corretas na p&aacute;gina de detalhes do produto]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>
